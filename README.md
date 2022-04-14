@@ -1,4 +1,4 @@
-# 👋 Oi, sou josé Anastácio pode me chamar de josé 💗💗💗💗💗💗
+# 👋 Hi, I'm josé Anastácio you can call me josé 💗💗💗💗💗💗
 @josegamest
 
 
@@ -10,16 +10,13 @@
 </div>
 
 <div>
-- 👀 Estou interessado em programacao e arte digital<br>
 - 👀 I'm interested in programming and digital art<br>
-- 🌱  Atualmente estou aprendendo linguagem lua e html para fazer meus progetos<br>
 - 🌱 I am currently learning lua and html language to make my projects<br>
-- 💞️ Estou procurando colaborar em progetos que me possibilitem aprender e ajudar com programacao.<br>
 - 💞️ I'm looking to collaborate on projects that allow me to learn and help with programming.<br>
 
 - :wrench: 💾 Skin converter: https://josegamestest.github.io/
 - :wrench: 💾 Formspec-editor gerador: https://josegamestest.github.io/formspec-editor.github.io/
-- :wrench: 🎮 Jogo online tipo Minecraft https://josegamestest.github.io/mine_cube_engine/
+- :wrench: 🎮 Minecraft-like online game https://josegamestest.github.io/mine_cube_engine/
 </div>
 
 
