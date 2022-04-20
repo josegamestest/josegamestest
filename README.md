@@ -10,6 +10,11 @@
 </div>
 
 <div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
+</div>
+
+<div>
+  
 - 👀 I'm interested in programming and digital art<br>
 - 🌱 I am currently learning lua and html language to make my projects<br>
 - 💞️ I'm looking to collaborate on projects that allow me to learn and help with programming.<br>
