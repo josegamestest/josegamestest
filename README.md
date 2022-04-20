@@ -9,9 +9,9 @@
 </a>
 </div>
 
-<div>
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
-</div>
+
 
 <div>
   
