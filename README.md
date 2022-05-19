@@ -24,7 +24,7 @@
 <img style="align=center;" src="https://github.com/josegamestest/josegamestest/blob/main/josegamestest%20banner.jpg?raw=true" target="_blank">
 
  <h2></n>🗨 Redes</h2>
-<a href="https://www.youtube.com/channel/UC6iHz-pf0uAaeO2Ft1R29PA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/c/josegamestest" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/josegamestest/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/ReRktdupBE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://www.josegamestest.com.br" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"  target="_blank"></a>
