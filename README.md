@@ -8,6 +8,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegamestest&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegamestest&layout=compact&langs_count=7&theme=dracula"/>
 </a>
+----------------------------------------------------------------------------------------------------------------------------------------
 </div></div></html> 
  
 - 👀 I'm interested in programming and digital art<br>
@@ -19,8 +20,9 @@
 - :wrench: 🎮 Minecraft-like online game https://josegamestest.github.io/mine_cube_engine/
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
-
-<html><div align="center"><div>
+----------------------------------------------------------------------------------------------------------------------------------------
+<html>
+ <div align="center"><div>
 <img style="align=center;" src="https://github.com/josegamestest/josegamestest/blob/main/josegamestest%20banner.jpg?raw=true" target="_blank">
 
  <h2></n>🗨 Redes</h2>
@@ -31,11 +33,17 @@
 <a href="https://twitter.com/josegamestest" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
  <a href="https://t.me/josegamestest" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
 </div>
- 
+ ----------------------------------------------------------------------------------------------------------------------------------------
+ <div>
+  <h2>Projeto Joseworld</h2>
+  <a href="https://github.com/josegamestest/joseworld" target="_blank">
+  <img src="https://github.com/josegamestest/joseworld/blob/main/progeto_joseworld.jpg?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
+ </div>
+  ----------------------------------------------------------------------------------------------------------------------------------------
 <div>
 <h2> Minetest mod challenge to create route and flight challenges </h2>
 Practice flight and compete with this simple and very useful mod</br>
-<a href="https://github.com/josegamestest/challenge" target="_blank"><img style="width:630px;align=center;" src="https://github.com/josegamestest/challenge/blob/main/screenshot.png?raw=true" target="_blank"></a>
+<a href="[https://github.com/josegamestest/challenge](https://github.com/josegamestest/joseworld)" target="_blank"><img style="width:630px;align=center;" src="https://github.com/josegamestest/challenge/blob/main/screenshot.png?raw=true" target="_blank"></a>
 </div>
  
 <div>
