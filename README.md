@@ -21,29 +21,18 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
 ----------------------------------------------------------------------------------------------------------------------------------------
-<html>
- <div align="center"><div>
-<img style="align=center;" src="https://github.com/josegamestest/josegamestest/blob/main/josegamestest%20banner.jpg?raw=true" target="_blank">
+<html><div align="center"><div>
+ <img style="align=center; width:630px" src="https://github.com/josegamestest/josegamestest/blob/main/josegamestest%20banner.jpg?raw=true" target="_blank" >
 
- <h2></n>🗨 Redes</h2>
-<a href="https://www.youtube.com/c/josegamestest" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/josegamestest/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://discord.gg/ReRktdupBE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://www.josegamestest.com.br" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"  target="_blank"></a>
-<a href="https://twitter.com/josegamestest" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
- <a href="https://t.me/josegamestest" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
-</div>
- ----------------------------------------------------------------------------------------------------------------------------------------
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------
  <div>
-  <h2>Projeto Joseworld</h2>
-  <h1 style="text-align: center;"> &nbsp;Joseworld Servidor Brasileiro </h1>
-
+<h2>Projeto Joseworld</h2>
+<h1 style="text-align: center;"> &nbsp;Joseworld Servidor Brasileiro </h1>
 <div style="text-align: left;"><b>Nome</b>: Joseworld</div>
 <div style="text-align: left;"><b>Local</b>: Brasil</div>
 <div style="text-align: left;"><b>Link</b>: biglinux-minetest.ddns.net</div>
 <div style="text-align: left;"><b>Porta</b>: 30002</div>
 <b>Versão</b>: 5.3
-
 <table border="2" style="height: 157px; margin-left: auto; margin-right: auto; width: 376.7px;">
 <tbody>
 <tr style="height: 26px;">
@@ -68,14 +57,12 @@
 </tr>
 </tbody>
 </table>
-<!--DivTable.com-->
-<p></p>
-
-<p>
- Servidor Com elementos de construcao aventura e gerenciamento de recursos 
-</p>
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+ <p>
+   Servidor Com elementos de construcao aventura e gerenciamento de recursos 
+ </p>
   <a href="https://github.com/josegamestest/joseworld" target="_blank">
-  <img src="https://github.com/josegamestest/joseworld/blob/main/progeto_joseworld.jpg?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
+  <img style="width:630px;align=center;" src="https://github.com/josegamestest/joseworld/blob/main/progeto_joseworld.jpg?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
  </div>
   ----------------------------------------------------------------------------------------------------------------------------------------
 <div>
@@ -103,4 +90,14 @@ purpose and collect items in the game by picking them up on the map inspired by 
 <a href="https://github.com/josegamestest/gold_hunter" target="_blank"><img style="width:630px;align=center;" src="https://github.com/josegamestest/gold_hunter/blob/main/goldhunter.jpg?raw=true?;" target="_blank"></a>
 </div>
 
+<div>
+<h2></n>🗨 Redes</h2>
+<a href="https://www.youtube.com/c/josegamestest" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/josegamestest/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://discord.gg/ReRktdupBE" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://www.josegamestest.com.br" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white"  target="_blank"></a>
+<a href="https://twitter.com/josegamestest" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"  target="_blank"></a>
+ <a href="https://t.me/josegamestest" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
+</div>
+ ----------------------------------------------------------------------------------------------------------------------------------------
 </div></html>
