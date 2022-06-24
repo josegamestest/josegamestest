@@ -18,6 +18,17 @@
 - :wrench: 💾 Skin converter: https://josegamestest.github.io/
 - :wrench: 💾 Formspec-editor gerador: https://josegamestest.github.io/formspec-editor.github.io/
 - :wrench: 🎮 Minecraft-like online game https://josegamestest.github.io/mine_cube_engine/
+------------------------------------------------------------------------------------------------ 
+  🗣 TELEGRAM
+- :wrench: MINETEST MinetestBR https://t.me/minetestbr
+- :wrench: MINETEST BIGWORLD https://t.me/minetestbigworld
+- :wrench: Linux Familia https://t.me/linuxfamilia
+- :wrench: Linux Biglinux https://t.me/biglinux
+------------------------------------------------------------------------------------------------
+  🗣 DISCORD  
+- :wrench: MINETEST MinetestBR https://discord.gg/NNKzSvR9Vy
+- :wrench: MINETEST Bigworld https://discord.gg/HzZrQfY8uH
+- :wrench: MINETEST Josegamestest https://discord.gg/ReRktdupBE
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
 ----------------------------------------------------------------------------------------------------------------------------------------
