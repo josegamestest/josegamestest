@@ -72,33 +72,44 @@
  <p>
    Servidor Com elementos de construcao aventura e gerenciamento de recursos 
  </p>
-  <a href="https://github.com/josegamestest/joseworld" target="_blank">
-  <img style="width:630px;align=center;" src="https://github.com/josegamestest/joseworld/blob/main/progeto_joseworld.jpg?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank"></a>
+ 
+ <a href="https://github.com/josegamestest/joseworld" target="_blank">SOBRE JOSEWORLD</a></br>
+  <a href="https://github.com/josegamestest/servidor_joseworld" target="_blank">
+    <img style="width:630px;align=center;" src="https://github.com/josegamestest/josegamestest/blob/main/joseworld.png?style=for-the-badge&logo=telegram&logoColor=white"  target="_blank">
+  </a>
  </div>
   ----------------------------------------------------------------------------------------------------------------------------------------
 <div>
-<h2> Minetest mod challenge to create route and flight challenges </h2>
-Practice flight and compete with this simple and very useful mod</br>
-<a href="[https://github.com/josegamestest/challenge](https://github.com/josegamestest/joseworld)" target="_blank"><img style="width:630px;align=center;" src="https://github.com/josegamestest/challenge/blob/main/screenshot.png?raw=true" target="_blank"></a>
+   <h2> Minetest mod challenge to create route and flight challenges </h2>
+   Practice flight and compete with this simple and very useful mod</br>
+   <a href="https://github.com/josegamestest/challenge" target="_blank">
+      <img style="width:630px;align=center;" src="https://github.com/josegamestest/challenge/blob/main/screenshot.png?raw=true" target="_blank">
+   </a>
 </div>
  
 <div>
-<h2> Minetest mod search and rescue loads mod</h2>
-How about making helicopters and other vehicles to rescue and carry items around the map</br>
-<a href="https://github.com/josegamestest/searchandrescue" target="_blank"><img style="width:630px;align=center;" src="https://github.com/josegamestest/searchandrescue/raw/main/screenshot.png?raw=true" target="_blank"></a>
+  <h2> Minetest mod search and rescue loads mod</h2>
+  How about making helicopters and other vehicles to rescue and carry items around the map</br>
+  <a href="https://github.com/josegamestest/searchandrescue" target="_blank">
+     <img style="width:630px;align=center;" src="https://github.com/josegamestest/searchandrescue/raw/main/screenshot.png?raw=true" target="_blank">
+  </a>
 </div>
 
 <div>
-<h2> Minetest mod mine apiario</h2>
-Take care of your bees and them to always have honey and other rewards</br>
-<a href="https://github.com/josegamestest/mine_apiario" target="_blank"><img style="width:630px;align=center;" src="https://github.com/josegamestest/mine_apiario/raw/main/screenshot.png?raw=true" target="_blank"></a>
+    <h2> Minetest mod mine apiario</h2>
+    Take care of your bees and them to always have honey and other rewards</br>
+    <a href="https://github.com/josegamestest/mine_apiario" target="_blank">
+       <img style="width:630px;align=center;" src="https://github.com/josegamestest/mine_apiario/raw/main/screenshot.png?raw=true" target="_blank">
+    </a>
 </div>
 
 <div>
 <h2> Minetest mod Gold_hunter</h2>
 And a mod that might turn into a game one day</br>
 purpose and collect items in the game by picking them up on the map inspired by arcade classics</br>
-<a href="https://github.com/josegamestest/gold_hunter" target="_blank"><img style="width:630px;align=center;" src="https://github.com/josegamestest/gold_hunter/blob/main/goldhunter.jpg?raw=true?;" target="_blank"></a>
+<a href="https://github.com/josegamestest/gold_hunter" target="_blank">
+    <img style="width:630px;align=center;" src="https://github.com/josegamestest/gold_hunter/blob/main/goldhunter.jpg?raw=true?;" target="_blank">
+</a>
 </div>
 
 <div>
