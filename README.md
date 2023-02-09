@@ -1,42 +1,50 @@
 <!DOCTYPE html>
 
+
+## Hi, I'm josé Anastácio you can call me josé @josegamest ##
+ ----------------------------------------------------------------------------------------------------------------------------------------
+- 👀 I'm interested in programming and digital art<br>
+- 🌱 I am currently learning lua and html language to make my projects<br>
+- 💞️ I'm looking to collaborate on projects that allow me to learn and help with programming.<br>
+----------------------------------------------------------------------------------------------------------------------------------------
 <html>
-<h1> 👋 Hi, I'm josé Anastácio you can call me josé 💗💗💗💗💗💗 @josegamest
-</h1>
 <div>
 <a href="https://github.com/josegamestest/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegamestest&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegamestest&layout=compact&langs_count=7&theme=dracula"/>
 </a>
 </div></div></html> 
- ----------------------------------------------------------------------------------------------------------------------------------------
-- 👀 I'm interested in programming and digital art<br>
-- 🌱 I am currently learning lua and html language to make my projects<br>
-- 💞️ I'm looking to collaborate on projects that allow me to learn and help with programming.<br>
+
+----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Lista de LINKS ##
+
 - 🔧 💾 Site https://josegamestest.com.br/
 - 🔧 💾 Skin converter: https://josegamestest.github.io/
 - 🔧 💾 Formspec-editor gerador: https://josegamestest.github.io/formspec-editor.github.io/
 - 🔧 🎮 Minecraft-like online game https://josegamestest.github.io/mine_cube_engine/
------------------------------------------------------------------------------------------------- 
-  🗣 TELEGRAM
+
+- ### 🗣 TELEGRAM ###
+
 - 🔧 MINETEST MinetestBR https://t.me/minetestbr
 - 🔧 MINETEST BIGWORLD https://t.me/minetestbigworld
 - 🔧 Linux Familia https://t.me/linuxfamilia
 - 🔧 Linux Biglinux https://t.me/biglinux
-------------------------------------------------------------------------------------------------
-  🗣 DISCORD  
+
+### 🗣 DISCORD  ###
+  
 - 🔧 MINETEST MinetestBR https://discord.gg/NNKzSvR9Vy
 - 🔧 MINETEST Bigworld https://discord.gg/HzZrQfY8uH
 - 🔧 MINETEST Josegamestest https://discord.gg/ReRktdupBE
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
 ----------------------------------------------------------------------------------------------------------------------------------------
-<html><div align="center"><div>
- <img style="align=center; width:630px" src="https://github.com/josegamestest/josegamestest/blob/main/josegamestest%20banner.jpg?raw=true" target="_blank" >
 
- ----------------------------------------------------------------------------------------------------------------------------------------------------------
+[![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+<html><div align="center"><div>
+
  <div>
 <h2>Projeto Joseworld</h2>
 <h1 style="text-align: center;"> &nbsp;Joseworld Servidor Brasileiro </h1>
@@ -69,7 +77,8 @@
 </tr>
 </tbody>
 </table>
-----------------------------------------------------------------------------------------------------------------------------------------------------------
+  
+  <img style="align=center; width:630px" src="https://github.com/josegamestest/josegamestest/blob/main/josegamestest%20banner.jpg?raw=true" target="_blank" >
  <p>
    Servidor Com elementos de construcao aventura e gerenciamento de recursos 
  </p>
