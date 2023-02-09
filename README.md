@@ -8,27 +8,28 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegamestest&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josegamestest&layout=compact&langs_count=7&theme=dracula"/>
 </a>
-----------------------------------------------------------------------------------------------------------------------------------------
 </div></div></html> 
- 
+ ----------------------------------------------------------------------------------------------------------------------------------------
 - 👀 I'm interested in programming and digital art<br>
 - 🌱 I am currently learning lua and html language to make my projects<br>
 - 💞️ I'm looking to collaborate on projects that allow me to learn and help with programming.<br>
 
-- :wrench: 💾 Skin converter: https://josegamestest.github.io/
-- :wrench: 💾 Formspec-editor gerador: https://josegamestest.github.io/formspec-editor.github.io/
-- :wrench: 🎮 Minecraft-like online game https://josegamestest.github.io/mine_cube_engine/
+## Lista de LINKS ##
+- 🔧 💾 Site https://josegamestest.com.br/
+- 🔧 💾 Skin converter: https://josegamestest.github.io/
+- 🔧 💾 Formspec-editor gerador: https://josegamestest.github.io/formspec-editor.github.io/
+- 🔧 🎮 Minecraft-like online game https://josegamestest.github.io/mine_cube_engine/
 ------------------------------------------------------------------------------------------------ 
   🗣 TELEGRAM
-- :wrench: MINETEST MinetestBR https://t.me/minetestbr
-- :wrench: MINETEST BIGWORLD https://t.me/minetestbigworld
-- :wrench: Linux Familia https://t.me/linuxfamilia
-- :wrench: Linux Biglinux https://t.me/biglinux
+- 🔧 MINETEST MinetestBR https://t.me/minetestbr
+- 🔧 MINETEST BIGWORLD https://t.me/minetestbigworld
+- 🔧 Linux Familia https://t.me/linuxfamilia
+- 🔧 Linux Biglinux https://t.me/biglinux
 ------------------------------------------------------------------------------------------------
   🗣 DISCORD  
-- :wrench: MINETEST MinetestBR https://discord.gg/NNKzSvR9Vy
-- :wrench: MINETEST Bigworld https://discord.gg/HzZrQfY8uH
-- :wrench: MINETEST Josegamestest https://discord.gg/ReRktdupBE
+- 🔧 MINETEST MinetestBR https://discord.gg/NNKzSvR9Vy
+- 🔧 MINETEST Bigworld https://discord.gg/HzZrQfY8uH
+- 🔧 MINETEST Josegamestest https://discord.gg/ReRktdupBE
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=josegamestest&theme=dark_lover)](https://github.com/josegamestest/github-profile-trophy)
 ----------------------------------------------------------------------------------------------------------------------------------------
