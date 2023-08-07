@@ -8,6 +8,33 @@
 - 💞️ I'm looking to collaborate on projects that allow me to learn and help with programming.<br>
 ----------------------------------------------------------------------------------------------------------------------------------------
 <html>
+
+ <head>
+	<script>
+		window.onload = function() {
+			var botoes = document.querySelectorAll('.rolagem-btn');
+			botoes.forEach(function(botao) {
+				botao.addEventListener('click', function(event) {
+					event.preventDefault();
+					var elemento = document.querySelector(this.getAttribute('data-rolagem'));
+					if (elemento) {
+						elemento.scrollIntoView({behavior: 'smooth'});
+					}
+				});
+			});
+		}
+	</script>
+</head>
+<div>
+<h1>Rolagem Direta</h1>
+	<p>Clique nos botões para rolar para os títulos e subtítulos</p>
+	<botao id="botao">
+      <button class="rolagem-btn" data-rolagem="h1">Título 1</button>
+      <button class="rolagem-btn" data-rolagem="h2">Subtítulo 1</button>
+      <button class="rolagem-btn" data-rolagem="h3">Subtítulo 2</button>
+      <button class="rolagem-btn" data-rolagem="h4">Subtítulo 4</button>
+    </botao>
+</div> 
 <div>
 <a href="https://github.com/josegamestest/github-readme-stats">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josegamestest&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -18,6 +45,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 ## Lista de LINKS ##
+<h1>Lista de LINKS</h1>
 
 - 🔧 💾 Site https://josegamestest.com.br/
 - 🔧 💾 Skin converter: https://josegamestest.github.io/
